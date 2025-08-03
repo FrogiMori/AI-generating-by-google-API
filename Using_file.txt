@@ -1,0 +1,4 @@
+To using and install python libary for google AI
+run this in terminal or cmd 
+
+pip install google-generativeai
